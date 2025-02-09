@@ -1,3 +1,13 @@
+
+Sudoku generator in next.js. 
+few diff levels, 9x9 or 6x6 grids, printable
+
+
+<img width="561" alt="Screenshot 2025-02-09 at 22 48 14" src="https://github.com/user-attachments/assets/261b7589-3e03-4457-b7e0-b62bb54a1649" />
+
+<img width="586" alt="Screenshot 2025-02-09 at 22 48 21" src="https://github.com/user-attachments/assets/69eabf37-fca2-470b-b9f6-83a1956fa77a" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
